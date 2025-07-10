@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="27.2.0">
+  <diagram name="Page-1" id="dZrU0kMsjJ5C0qUi8lvo">
+    <mxGraphModel dx="1048" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-1" target="vic8FIyBIyHEnbwLf0WX-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="485" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-2" value="Proposed Indicators for Prioritization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#36393d;fillColor=#ffff88;" parent="1" vertex="1">
+          <mxGeometry x="70" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-5" target="vic8FIyBIyHEnbwLf0WX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="190" />
+              <mxPoint x="305" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-5" target="BNtDZjOPGP3XTsJQUTeh-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="190" />
+              <mxPoint x="305" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-5" value="Educational Outcome Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-6" target="vic8FIyBIyHEnbwLf0WX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-6" value="Teacher&#39;s Capacity Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="230" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-7" target="vic8FIyBIyHEnbwLf0WX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-7" target="vic8FIyBIyHEnbwLf0WX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-7" value="School&#39;s Physical Condition Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="330" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-8" target="vic8FIyBIyHEnbwLf0WX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-8" value="Building Vulnerability Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="430" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-9" target="vic8FIyBIyHEnbwLf0WX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-9" value="Cost Efficiency Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="500" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-10" target="vic8FIyBIyHEnbwLf0WX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-10" target="vic8FIyBIyHEnbwLf0WX-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-10" value="School Capacity Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="610" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BNtDZjOPGP3XTsJQUTeh-11" target="vic8FIyBIyHEnbwLf0WX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-11" value="Voucher Opportunity Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="85" y="695" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BNtDZjOPGP3XTsJQUTeh-13" value="National Achievement Test (Grade 6, and Grade 10)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-2" value="Dropout Rate&lt;br&gt;(All grade levels)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-6" value="Teacher-to-Student Ratio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="235" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-10" value="Health and Comfort Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(water, electricity, student-to-toilet ratio)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-11" value="School Facility Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(student-to-furniture ratio, ancillary facilities, internet access)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="350" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-12" value="Building Vulnerability Index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="430" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-13" value="Cost Efficiency Index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="500" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-14" value="School Capacity Index" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="570" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-20" value="Voucher Opportunity Indicator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="690" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-24" value="" style="shape=mxgraph.sysml.x;" vertex="1" parent="1">
+          <mxGeometry x="590" y="330" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-26" value="Specific Parameters/Indeces" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="315" y="80" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-27" value="School Shifting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="630" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-31" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Weights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="360" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-33" value="Pointing System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-35" value="School Priority Score" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=1;dashed=1;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="362.5" width="180" height="155" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
