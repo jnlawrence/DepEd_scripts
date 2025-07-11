@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram name="General prioritization" id="dZrU0kMsjJ5C0qUi8lvo">
-    <mxGraphModel dx="1429" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VMlLZKtZhOFw7uXdyvWQ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="210" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BNtDZjOPGP3XTsJQUTeh-1" edge="1">
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BNtDZjOPGP3XTsJQUTeh-1" target="O7cRetoSGUjlBEMeUUlz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="990" y="475" as="targetPoint" />
           </mxGeometry>
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNtDZjOPGP3XTsJQUTeh-10" value="School Capacity Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="305" y="610" width="180" height="40" as="geometry" />
+          <mxGeometry x="305" y="620" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BNtDZjOPGP3XTsJQUTeh-11" target="vic8FIyBIyHEnbwLf0WX-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -78,10 +78,10 @@
         <mxCell id="vic8FIyBIyHEnbwLf0WX-6" value="Teacher-to-Student Ratio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="315" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-10" value="Health and Comfort Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(water, electricity, student-to-toilet ratio)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-10" value="Health and Comfort Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(water, electricity, cross-ventilation)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="370" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-11" value="School Facility Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(student-to-furniture ratio, ancillary facilities, internet access)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-11" value="School Facility Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(student-to-furniture ratio, student-to-toilet ratio, ancillary facilities, internet access)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="430" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-12" value="Building Vulnerability Index&lt;div&gt;&lt;font size=&quot;1&quot;&gt;(building type, age, and condition)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="vic8FIyBIyHEnbwLf0WX-13" value="Cost Efficiency Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(est. cost of intervention, no. of students)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="545" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-14" value="School Capacity Index [SCI]&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(no. of students, and functional rooms)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-14" value="School Capacity Index [SCI]&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(no. of students, functional rooms, and planning parameters)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="595" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-20" value="Voucher Opportunity Index&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(SCI of public vs&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;SCI of private per division)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,19 +100,19 @@
           <mxGeometry x="760" y="410" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-26" value="Specific Parameters/Indeces" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="535" y="150" width="210" height="30" as="geometry" />
+          <mxGeometry x="625" y="150" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-27" value="School Shifting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="650" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Individual&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Weights*&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="820" y="460" width="120" height="70" as="geometry" />
+          <mxGeometry x="820" y="440" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="up6tPEkPAK3OuS0IHPs8-2" value="Resulting Score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="985" y="345" width="210" height="40" as="geometry" />
+        <mxCell id="up6tPEkPAK3OuS0IHPs8-2" value="Resulting Score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=12 12;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="360" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7cRetoSGUjlBEMeUUlz-1" value="&lt;div&gt;List of Schools with&lt;/div&gt;School Priority Score" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="431.25" width="180" height="87.5" as="geometry" />
+          <mxGeometry x="1045" y="431" width="180" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="VMlLZKtZhOFw7uXdyvWQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VMlLZKtZhOFw7uXdyvWQ-4">
           <mxGeometry relative="1" as="geometry">
@@ -123,16 +123,16 @@
           <mxGeometry x="20" y="427.5" width="190" height="95" as="geometry" />
         </mxCell>
         <mxCell id="myohFQ1zVKSuxoloC7QV-1" value="*Adjusted according to&amp;nbsp;&lt;div&gt;program&#39;s priority&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="820" y="530" width="120" height="40" as="geometry" />
+          <mxGeometry x="820" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q5P0W0iKlHpEz1kMINdg-1" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;&lt;i&gt;Holistic Prioritization Criteria&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="550" height="80" as="geometry" />
+          <mxGeometry x="411" y="30" width="550" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="-ljFOnRg_goBhUpYikwA" name="New Construction">
-    <mxGraphModel dx="1209" dy="642" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1079" dy="439" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,14 +273,25 @@
         <mxCell id="X7e3FLCe9e5jz8i-fLvw-4" value="Sort According to School Priority Score" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040.75" y="311" width="128.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="X7e3FLCe9e5jz8i-fLvw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X7e3FLCe9e5jz8i-fLvw-6" target="X7e3FLCe9e5jz8i-fLvw-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X7e3FLCe9e5jz8i-fLvw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.5" y="770.037037037037" as="sourcePoint" />
+            <mxPoint x="1170.5000000000002" y="726" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1033" y="770" />
+              <mxPoint x="1033" y="726" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X7e3FLCe9e5jz8i-fLvw-6" value="List C" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="514.5" y="748" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="X7e3FLCe9e5jz8i-fLvw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X7e3FLCe9e5jz8i-fLvw-8" target="X7e3FLCe9e5jz8i-fLvw-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X7e3FLCe9e5jz8i-fLvw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="X7e3FLCe9e5jz8i-fLvw-8" target="X7e3FLCe9e5jz8i-fLvw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="682" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X7e3FLCe9e5jz8i-fLvw-8" value="List B" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="770.5" y="578" width="120" height="38" as="geometry" />
