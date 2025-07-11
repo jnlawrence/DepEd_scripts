@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="27.2.0" pages="2">
   <diagram name="General prioritization" id="dZrU0kMsjJ5C0qUi8lvo">
-    <mxGraphModel dx="582" dy="309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNtDZjOPGP3XTsJQUTeh-11" value="Voucher Opportunity Indicator" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fontStyle=0;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="305" y="685" width="180" height="40" as="geometry" />
+          <mxGeometry x="305" y="687.5" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BNtDZjOPGP3XTsJQUTeh-13" value="National Achievement Test (Grade 6, and Grade 10)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="210" width="170" height="40" as="geometry" />
@@ -84,17 +84,17 @@
         <mxCell id="vic8FIyBIyHEnbwLf0WX-11" value="School Facility Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(student-to-furniture ratio, ancillary facilities, internet access)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555" y="430" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-12" value="Building Vulnerability Index" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="500" width="170" height="30" as="geometry" />
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-12" value="Building Vulnerability Index&lt;div&gt;&lt;font size=&quot;1&quot;&gt;(building type, age, and condition)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="495" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-13" value="Cost Efficiency Index" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="550" width="170" height="30" as="geometry" />
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-13" value="Cost Efficiency Index&lt;br&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(est. cost of intervention, no. of students)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="545" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-14" value="School Capacity Index" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="595" width="170" height="30" as="geometry" />
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-14" value="School Capacity Index [SCI]&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(no. of students, and functional rooms)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="595" width="170" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vic8FIyBIyHEnbwLf0WX-20" value="Voucher Opportunity Indicator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="685" width="170" height="40" as="geometry" />
+        <mxCell id="vic8FIyBIyHEnbwLf0WX-20" value="Voucher Opportunity Index&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;(SCI of public vs&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;SCI of private per division)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="685" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-24" value="" style="shape=mxgraph.sysml.x;" parent="1" vertex="1">
           <mxGeometry x="760" y="410" width="40" height="170" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="535" y="150" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-27" value="School Shifting" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="555" y="635" width="170" height="35" as="geometry" />
+          <mxGeometry x="555" y="650" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="vic8FIyBIyHEnbwLf0WX-31" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Individual&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Weights*&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="820" y="460" width="120" height="70" as="geometry" />
