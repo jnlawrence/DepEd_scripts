@@ -113,7 +113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ljFOnRg_goBhUpYikwA" name="New Construction">
-    <mxGraphModel dx="1310" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="491" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,6 +122,35 @@
         </mxCell>
         <mxCell id="O3PZ08gSuVm4dULurhEU-2" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;&lt;i&gt;New Construction&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="470" y="50" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oc-iiDuYTo9tr-FX-BDX-1" target="oc-iiDuYTo9tr-FX-BDX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oc-iiDuYTo9tr-FX-BDX-1" target="oc-iiDuYTo9tr-FX-BDX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="561" y="330" />
+              <mxPoint x="561" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oc-iiDuYTo9tr-FX-BDX-1" target="oc-iiDuYTo9tr-FX-BDX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Buildable Space&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="308" width="176" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Site Ownership Document&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="462" width="176" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Size of Buildable Space&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="242" width="176" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Topography&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="381" width="176" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="oc-iiDuYTo9tr-FX-BDX-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Shape&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="308" width="176" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
