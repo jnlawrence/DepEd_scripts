@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="28.0.4">
+  <diagram name="Page-1" id="97llWQzEfnXFWYIMVSdB">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Weekly/Monthly Monitoring of Status Report&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="495" y="40" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="1390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--3" value="Current Protocol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--6" value="Revised Protocol" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="50" y="425" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--7" target="5PKFy6MWG_Nd8JtFns1--8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--7" value="Excel file containing all allocated projects per Program" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--8" target="5PKFy6MWG_Nd8JtFns1--10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--8" value="Separate each program&#39;s database per Region thru Python&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--10" target="5PKFy6MWG_Nd8JtFns1--13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--10" value="Upload per Region folders to SharePoint&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--12" value="8 Excel files in total = 8 Programs" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="45" y="240" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--13" target="5PKFy6MWG_Nd8JtFns1--19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--13" value="Cascade links to folders to the Regional Engineers, and Division Engineers for filling-up of Excel files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--15" target="5PKFy6MWG_Nd8JtFns1--17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--15" value="Quality check all inputs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--17" target="5PKFy6MWG_Nd8JtFns1--26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--17" value="Reconsolidate per Program&#39;s Excel Files" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5PKFy6MWG_Nd8JtFns1--19" target="5PKFy6MWG_Nd8JtFns1--15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--19" value="Regional Engineers and Division Engineers manually input all data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5PKFy6MWG_Nd8JtFns1--25" target="5PKFy6MWG_Nd8JtFns1--28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--25" value="Kobotoolbox Form (Offline and Online) / Microsoft Forms (Online only)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--26" value="Summarize thru PowerBI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="270" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5PKFy6MWG_Nd8JtFns1--28" target="5PKFy6MWG_Nd8JtFns1--30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--28" value="Cascade link to form to Division Engineers for filling-up" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5PKFy6MWG_Nd8JtFns1--30" target="5PKFy6MWG_Nd8JtFns1--34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--30" value="Provide access to responses to Regional Engineers for monitoring" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--32" value="Summarize thru PowerBI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5PKFy6MWG_Nd8JtFns1--34" target="5PKFy6MWG_Nd8JtFns1--32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PKFy6MWG_Nd8JtFns1--34" value="Quality check all inputs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
